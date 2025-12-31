@@ -8,7 +8,7 @@ function Home() {
       <h1 className="mb-3 text-2xl font-bold">Welcome to PopX</h1>
 
       <p className="mb-6 pl-0 text-xl text-gray-500">
-        Lorem ipsum dolor sit amet,<br /> 
+        Lorem ipsum dolor sit amet,<br />
         consectetur adipiscing elit.
       </p>
 
